@@ -1,0 +1,1493 @@
+path;total_conversions;total_conversion_value;total_null
+Affiliate;256;17882.4112;3168
+Affiliate > Affiliate;38;2807.607226;502
+Affiliate > Affiliate > Affiliate;8;565.5615049;87
+Affiliate > Affiliate > Affiliate > Affiliate;3;209.3772893;12
+Affiliate > Affiliate > Affiliate > Affiliate > Affiliate;0;0;1
+Affiliate > Affiliate > Affiliate > Affiliate > Affiliate > Affiliate;0;0;1
+Affiliate > Affiliate > Affiliate > Affiliate > Display > Display > Newsletter;0;0;1
+Affiliate > Affiliate > Affiliate > Display;0;0;1
+Affiliate > Affiliate > Affiliate > Display > Display > Display;0;0;2
+Affiliate > Affiliate > Affiliate > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Affiliate > Affiliate > Affiliate > Display > Display > Display > Price_comparison;0;0;1
+Affiliate > Affiliate > Affiliate > SEO;0;0;1
+Affiliate > Affiliate > Display;0;0;6
+Affiliate > Affiliate > Display > Display;0;0;2
+Affiliate > Affiliate > Display > Display > Display;0;0;4
+Affiliate > Affiliate > Display > Display > Display > Display;0;0;2
+Affiliate > Affiliate > Display > Display > Display > Display > Display;0;0;3
+Affiliate > Affiliate > Display > Display > Display > Display > Display > Display;0;0;2
+Affiliate > Affiliate > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Affiliate > Affiliate > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Affiliate > Affiliate > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Affiliate > Affiliate > Display > Display > Newsletter;0;0;1
+Affiliate > Affiliate > Display > Newsletter > Newsletter;0;0;1
+Affiliate > Affiliate > Newsletter;0;0;2
+Affiliate > Affiliate > Newsletter > Newsletter;0;0;2
+Affiliate > Affiliate > Newsletter > Newsletter > Newsletter;0;0;1
+Affiliate > Affiliate > Other > Display > Display > Display > Display;0;0;1
+Affiliate > Affiliate > Other > Other > Other > Other;0;0;1
+Affiliate > Affiliate > Price_comparison;0;0;1
+Affiliate > Affiliate > SEA;0;0;7
+Affiliate > Affiliate > SEO;1;72.54239693;9
+Affiliate > Affiliate > SEO > Display;0;0;1
+Affiliate > Affiliate > SEO > SEA;0;0;1
+Affiliate > Affiliate > SEO > SEO;0;0;1
+Affiliate > Display;0;0;36
+Affiliate > Display > Display;0;0;21
+Affiliate > Display > Display > Display;0;0;16
+Affiliate > Display > Display > Display > Display;0;0;11
+Affiliate > Display > Display > Display > Display > Display;0;0;12
+Affiliate > Display > Display > Display > Display > Display > Display;0;0;14
+Affiliate > Display > Display > Display > Display > Display > Display > Display;0;0;8
+Affiliate > Display > Display > Display > Display > Display > Display > Display > Display;0;0;4
+Affiliate > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;3
+Affiliate > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;3
+Affiliate > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Affiliate > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Affiliate > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Affiliate > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Affiliate > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+Affiliate > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+Affiliate > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+Affiliate > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > SEA;0;0;1
+Affiliate > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;1
+Affiliate > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+Affiliate > Display > Display > Display > Display > Newsletter > Newsletter;0;0;1
+Affiliate > Display > Display > Display > Newsletter;0;0;1
+Affiliate > Display > Display > Display > Newsletter > Display;0;0;1
+Affiliate > Display > Display > Display > Price_comparison;0;0;1
+Affiliate > Display > Display > Newsletter;0;0;3
+Affiliate > Display > Display > Newsletter > Newsletter > Newsletter > SEA;0;0;1
+Affiliate > Display > Display > Price_comparison;0;0;1
+Affiliate > Display > Newsletter;0;0;2
+Affiliate > Display > Newsletter > Newsletter;0;0;1
+Affiliate > Newsletter;1;84.00039366;17
+Affiliate > Newsletter > Newsletter;1;73.16973939;3
+Affiliate > Newsletter > Newsletter > Newsletter;0;0;3
+Affiliate > Newsletter > Newsletter > Newsletter > Newsletter;0;0;2
+Affiliate > Newsletter > Price_comparison > Price_comparison;0;0;1
+Affiliate > Newsletter > Retargeting > Retargeting;0;0;1
+Affiliate > Newsletter > SEA;0;0;2
+Affiliate > Newsletter > SEA > SEA;0;0;1
+Affiliate > Other;0;0;10
+Affiliate > Other > Other;0;0;2
+Affiliate > Other > Other > Other;0;0;2
+Affiliate > Other > Other > Other > Other;0;0;1
+Affiliate > Price_comparison;0;0;9
+Affiliate > Price_comparison > Price_comparison;0;0;1
+Affiliate > Price_comparison > Price_comparison > Price_comparison > Price_comparison;0;0;1
+Affiliate > Price_comparison > SEO;0;0;1
+Affiliate > Retargeting;0;0;4
+Affiliate > Retargeting > Retargeting;0;0;2
+Affiliate > Retargeting > SEO > SEO > SEO;0;0;1
+Affiliate > SEA;0;0;19
+Affiliate > SEA > Price_comparison;0;0;1
+Affiliate > SEA > SEA;0;0;1
+Affiliate > SEA > SEA > SEA;0;0;1
+Affiliate > SEO;0;0;24
+Affiliate > SEO > Display > Display > Display;0;0;1
+Affiliate > SEO > SEA;0;0;3
+Affiliate > SEO > SEA > SEA;0;0;1
+Affiliate > SEO > SEO;0;0;3
+Affiliate > SEO > SEO > SEO;0;0;3
+Affiliate > SEO > SEO > SEO > SEO;0;0;1
+Display;0;0;6408
+Display > Affiliate;1;73.02348168;23
+Display > Affiliate > Affiliate;0;0;7
+Display > Affiliate > Affiliate > Affiliate;1;70.70744412;0
+Display > Affiliate > Affiliate > SEO;0;0;1
+Display > Affiliate > Display > Display > Display > Display > Display;0;0;1
+Display > Display;0;0;4818
+Display > Display > Affiliate;1;57.47470462;15
+Display > Display > Affiliate > Affiliate;0;0;1
+Display > Display > Affiliate > Affiliate > SEO > SEO > Display > Display > Display > Display;0;0;1
+Display > Display > Display;0;0;3704
+Display > Display > Display > Affiliate;0;0;13
+Display > Display > Display > Affiliate > Affiliate;0;0;1
+Display > Display > Display > Affiliate > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Affiliate > Other > Other > Other > SEA;0;0;1
+Display > Display > Display > Display;0;0;2653
+Display > Display > Display > Display > Affiliate;0;0;7
+Display > Display > Display > Display > Affiliate > Affiliate;0;0;2
+Display > Display > Display > Display > Affiliate > Affiliate > Affiliate;0;0;1
+Display > Display > Display > Display > Affiliate > SEA > SEA;0;0;1
+Display > Display > Display > Display > Display;0;0;2062
+Display > Display > Display > Display > Display > Affiliate;1;66.76335817;5
+Display > Display > Display > Display > Display > Affiliate > Affiliate;0;0;2
+Display > Display > Display > Display > Display > Display;0;0;1615
+Display > Display > Display > Display > Display > Display > Affiliate;0;0;5
+Display > Display > Display > Display > Display > Display > Affiliate > Affiliate;0;0;2
+Display > Display > Display > Display > Display > Display > Display;0;0;1175
+Display > Display > Display > Display > Display > Display > Display > Affiliate;1;43.09663062;4
+Display > Display > Display > Display > Display > Display > Display > Affiliate > Affiliate > Affiliate;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Display;0;0;882
+Display > Display > Display > Display > Display > Display > Display > Display > Affiliate;1;73.24869559;4
+Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;651
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Affiliate;1;89.67209783;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Affiliate > SEA > SEA;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;529
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Affiliate;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;412
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Affiliate;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;282
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Affiliate;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;224
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Affiliate;0;0;4
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;168
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;128
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;79
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;80
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Affiliate > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;55
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;51
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;34
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;28
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;28
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;10
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Affiliate > Affiliate > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;9
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;12
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;8
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;3
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;3
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > SEA > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;4
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;4
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;4
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > SEA;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;6
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;6
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Price_comparison;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > SEO;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;4
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Price_comparison;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;1;74.39675021;15
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;3;240.1600647;14
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;4
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Price_comparison > Price_comparison > Price_comparison;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > SEO;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;1;58.57669741;22
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > SEA;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > SEO;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > SEO > SEO > SEO > SEO;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Price_comparison;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;26
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;4
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter;1;76.40222697;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > SEA > SEO;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Price_comparison > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > SEO;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;35
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;3
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter;0;0;4
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter > Retargeting;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > SEA;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > SEA > SEA;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Price_comparison;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > SEO > SEO;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;1;68.70908181;50
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;15
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter;1;73.69739262;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Price_comparison;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > SEA;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Price_comparison;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Price_comparison > Price_comparison > Price_comparison;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > SEO;0;0;4
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > SEO > SEO;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > SEO > SEO > SEO > SEO;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;1;67.81159268;56
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;1;61.19475438;21
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter;0;0;3
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > SEA;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > SEA > SEA > SEA > SEA;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > SEO;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Price_comparison;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Price_comparison > Price_comparison > Price_comparison;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Display > Display > Price_comparison > Price_comparison > SEA;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Display > SEO;0;0;5
+Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;2;136.8470693;70
+Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Display;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;19
+Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter > Price_comparison;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > SEA > SEA;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Retargeting;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > SEA;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > SEA > SEA;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > SEO;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > SEO > SEO;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Price_comparison > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > Price_comparison > Price_comparison > Price_comparison > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > SEO;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > SEO > SEA;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Display > SEO > SEO;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Display > SEO > SEO > SEA;1;53.54161064;0
+Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;110
+Display > Display > Display > Display > Display > Display > Display > Newsletter > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Newsletter > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Newsletter > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Newsletter > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Newsletter > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;1;72.53406307;32
+Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter;0;0;2
+Display > Display > Display > Display > Display > Display > Display > Newsletter > Other > Other;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Newsletter > SEA;0;0;3
+Display > Display > Display > Display > Display > Display > Display > Newsletter > SEA > SEA > SEA;0;0;1
+Display > Display > Display > Display > Display > Display > Display > Price_comparison;0;0;5
+Display > Display > Display > Display > Display > Display > Display > Price_comparison > Price_comparison;0;0;2
+Display > Display > Display > Display > Display > Display > Display > SEO;0;0;2
+Display > Display > Display > Display > Display > Display > Display > SEO > SEO > SEA > SEO;0;0;1
+Display > Display > Display > Display > Display > Display > Newsletter;4;302.3824713;147
+Display > Display > Display > Display > Display > Display > Newsletter > Display;0;0;4
+Display > Display > Display > Display > Display > Display > Newsletter > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;29
+Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Affiliate;0;0;1
+Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter;0;0;6
+Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter > Display;0;0;1
+Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter;0;0;1
+Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter > Newsletter;0;0;2
+Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Price_comparison > Price_comparison;0;0;1
+Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Retargeting;0;0;1
+Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > SEA;0;0;1
+Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > SEA > SEA;0;0;1
+Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > SEA > SEO > SEA;0;0;1
+Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > SEO;0;0;1
+Display > Display > Display > Display > Display > Display > Newsletter > Other;0;0;2
+Display > Display > Display > Display > Display > Display > Newsletter > SEO;0;0;1
+Display > Display > Display > Display > Display > Display > Newsletter > SEO > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;1
+Display > Display > Display > Display > Display > Display > Price_comparison;0;0;8
+Display > Display > Display > Display > Display > Display > Price_comparison > Price_comparison > Price_comparison;0;0;1
+Display > Display > Display > Display > Display > Display > Price_comparison > SEA;0;0;1
+Display > Display > Display > Display > Display > Display > SEO;0;0;4
+Display > Display > Display > Display > Display > Display > SEO > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Display > SEO > SEA;0;0;1
+Display > Display > Display > Display > Display > Newsletter;9;653.4637068;184
+Display > Display > Display > Display > Display > Newsletter > Affiliate;0;0;1
+Display > Display > Display > Display > Display > Newsletter > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Newsletter > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Newsletter > Display > Display > Display > Newsletter;0;0;1
+Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;37
+Display > Display > Display > Display > Display > Newsletter > Newsletter > Display > Display;0;0;1
+Display > Display > Display > Display > Display > Newsletter > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter;0;0;6
+Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter;0;0;3
+Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter > Newsletter;0;0;1
+Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter > Price_comparison;0;0;1
+Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter > SEA > SEA > Retargeting > Retargeting;0;0;1
+Display > Display > Display > Display > Display > Newsletter > Newsletter > SEA > SEA;0;0;1
+Display > Display > Display > Display > Display > Newsletter > Newsletter > SEO > SEO > SEO > Display;0;0;1
+Display > Display > Display > Display > Display > Newsletter > Price_comparison;0;0;1
+Display > Display > Display > Display > Display > Newsletter > SEA;0;0;6
+Display > Display > Display > Display > Display > Newsletter > SEA > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+Display > Display > Display > Display > Display > Newsletter > SEA > SEA;0;0;1
+Display > Display > Display > Display > Display > Newsletter > SEO;0;0;1
+Display > Display > Display > Display > Display > Price_comparison;0;0;5
+Display > Display > Display > Display > Display > Price_comparison > Price_comparison > Price_comparison > Price_comparison;0;0;3
+Display > Display > Display > Display > Display > SEO;0;0;9
+Display > Display > Display > Display > Display > SEO > SEO;0;0;1
+Display > Display > Display > Display > Display > SEO > SEO > SEA;0;0;1
+Display > Display > Display > Display > Display > SEO > SEO > SEO > SEO > SEO > SEA > SEA;0;0;1
+Display > Display > Display > Display > Newsletter;5;326.9458903;230
+Display > Display > Display > Display > Newsletter > Affiliate;0;0;1
+Display > Display > Display > Display > Newsletter > Display > Display;0;0;1
+Display > Display > Display > Display > Newsletter > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Newsletter > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Newsletter > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+Display > Display > Display > Display > Newsletter > Display > Display > Display > Display > Display > Newsletter;0;0;1
+Display > Display > Display > Display > Newsletter > Newsletter;1;40.43369359;54
+Display > Display > Display > Display > Newsletter > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > Newsletter > Newsletter > Newsletter;0;0;8
+Display > Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter;0;0;3
+Display > Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter > Newsletter;0;0;2
+Display > Display > Display > Display > Newsletter > Newsletter > Price_comparison;0;0;2
+Display > Display > Display > Display > Newsletter > Newsletter > Retargeting;0;0;1
+Display > Display > Display > Display > Newsletter > Newsletter > SEA;0;0;3
+Display > Display > Display > Display > Newsletter > Newsletter > SEO > SEO;0;0;1
+Display > Display > Display > Display > Newsletter > Other > Other;0;0;1
+Display > Display > Display > Display > Newsletter > Other > Other > Other > Other;0;0;1
+Display > Display > Display > Display > Newsletter > Price_comparison;0;0;1
+Display > Display > Display > Display > Newsletter > Price_comparison > Price_comparison;0;0;1
+Display > Display > Display > Display > Newsletter > SEA;2;170.4296919;7
+Display > Display > Display > Display > Newsletter > SEA > Display > Display;0;0;1
+Display > Display > Display > Display > Newsletter > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+Display > Display > Display > Display > Newsletter > SEA > SEA;0;0;1
+Display > Display > Display > Display > Newsletter > SEO;0;0;3
+Display > Display > Display > Display > Price_comparison;0;0;9
+Display > Display > Display > Display > Price_comparison > Affiliate > Affiliate;0;0;1
+Display > Display > Display > Display > Price_comparison > Price_comparison;0;0;3
+Display > Display > Display > Display > Price_comparison > Price_comparison > Price_comparison;0;0;1
+Display > Display > Display > Display > Price_comparison > Price_comparison > Price_comparison > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Display > SEO;0;0;13
+Display > Display > Display > Display > SEO > SEO;0;0;1
+Display > Display > Display > Newsletter;12;866.2873718;319
+Display > Display > Display > Newsletter > Affiliate;0;0;2
+Display > Display > Display > Newsletter > Display;0;0;2
+Display > Display > Display > Newsletter > Display > Display;0;0;1
+Display > Display > Display > Newsletter > Display > Display > Display;0;0;1
+Display > Display > Display > Newsletter > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Newsletter > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Display > Newsletter > Newsletter;3;239.8613365;63
+Display > Display > Display > Newsletter > Newsletter > Affiliate;0;0;1
+Display > Display > Display > Newsletter > Newsletter > Display > Display;0;0;1
+Display > Display > Display > Newsletter > Newsletter > Display > Display > Display > Display;0;0;2
+Display > Display > Display > Newsletter > Newsletter > Newsletter;0;0;20
+Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter;0;0;5
+Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter > Display > Display > Display;0;0;1
+Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter > Newsletter;0;0;2
+Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter > Newsletter > Newsletter;0;0;1
+Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter > Newsletter > SEA;0;0;1
+Display > Display > Display > Newsletter > Newsletter > Newsletter > SEA;0;0;1
+Display > Display > Display > Newsletter > Newsletter > SEA;0;0;2
+Display > Display > Display > Newsletter > Newsletter > SEO > Display;0;0;1
+Display > Display > Display > Newsletter > Price_comparison;0;0;2
+Display > Display > Display > Newsletter > SEA;0;0;6
+Display > Display > Display > Newsletter > SEA > Display > Display > Display;0;0;1
+Display > Display > Display > Newsletter > SEA > SEA > SEA;0;0;2
+Display > Display > Display > Newsletter > SEA > SEO > SEO;0;0;1
+Display > Display > Display > Newsletter > SEO;0;0;6
+Display > Display > Display > Newsletter > SEO > SEO;0;0;3
+Display > Display > Display > Price_comparison;0;0;10
+Display > Display > Display > Price_comparison > Price_comparison;1;51.38614773;3
+Display > Display > Display > SEO;1;64.34653283;13
+Display > Display > Display > SEO > SEA > Display;0;0;1
+Display > Display > Display > SEO > SEO;0;0;2
+Display > Display > Newsletter;14;950.183875;373
+Display > Display > Newsletter > Display;0;0;4
+Display > Display > Newsletter > Display > Display;0;0;2
+Display > Display > Newsletter > Display > Display > Display;0;0;1
+Display > Display > Newsletter > Display > Display > Display > Display;0;0;1
+Display > Display > Newsletter > Display > Display > Display > Display > Display > Affiliate > Affiliate > SEO;0;0;1
+Display > Display > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+Display > Display > Newsletter > Newsletter;2;119.1665044;86
+Display > Display > Newsletter > Newsletter > Affiliate;1;86.82499486;0
+Display > Display > Newsletter > Newsletter > Display;0;0;1
+Display > Display > Newsletter > Newsletter > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Newsletter > Newsletter > Newsletter;0;0;14
+Display > Display > Newsletter > Newsletter > Newsletter > Display > Display > Display;0;0;1
+Display > Display > Newsletter > Newsletter > Newsletter > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+Display > Display > Newsletter > Newsletter > Newsletter > Newsletter;0;0;4
+Display > Display > Newsletter > Newsletter > SEA;0;0;2
+Display > Display > Newsletter > Newsletter > SEO;0;0;1
+Display > Display > Newsletter > Other;0;0;1
+Display > Display > Newsletter > Price_comparison;0;0;1
+Display > Display > Newsletter > Price_comparison > Display;0;0;1
+Display > Display > Newsletter > Price_comparison > Price_comparison > Price_comparison;0;0;1
+Display > Display > Newsletter > Retargeting;0;0;3
+Display > Display > Newsletter > Retargeting > Other > Other > Other;0;0;1
+Display > Display > Newsletter > SEA;0;0;14
+Display > Display > Newsletter > SEA > Display;0;0;1
+Display > Display > Newsletter > SEA > SEA;0;0;2
+Display > Display > Newsletter > SEA > SEA > SEA > SEA;0;0;1
+Display > Display > Newsletter > SEA > SEO;0;0;1
+Display > Display > Newsletter > SEO;0;0;4
+Display > Display > Newsletter > SEO > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Newsletter > SEO > SEA > SEA > SEA > SEA > SEO > SEO > Display;0;0;1
+Display > Display > Newsletter > SEO > SEO;0;0;2
+Display > Display > Price_comparison;0;0;15
+Display > Display > Price_comparison > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Display > Price_comparison > Price_comparison;0;0;6
+Display > Display > Price_comparison > Price_comparison > Price_comparison;0;0;2
+Display > Display > SEO;0;0;9
+Display > Display > SEO > SEA > SEO;1;66.63969565;0
+Display > Display > SEO > SEO;0;0;4
+Display > Display > SEO > SEO > SEO;0;0;2
+Display > Newsletter;13;908.8856267;499
+Display > Newsletter > Affiliate > SEO;0;0;1
+Display > Newsletter > Display;0;0;3
+Display > Newsletter > Display > Display;0;0;2
+Display > Newsletter > Display > Display > Display;0;0;2
+Display > Newsletter > Display > Display > Display > Display;0;0;1
+Display > Newsletter > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Newsletter > Display > Display > Display > Display > Display > Display > Display;0;0;2
+Display > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Newsletter > Display > Display > Display > Display > Display > Newsletter;0;0;1
+Display > Newsletter > Display > Display > Display > Newsletter;0;0;2
+Display > Newsletter > Display > Display > Newsletter > Newsletter;0;0;1
+Display > Newsletter > Newsletter;2;147.9103806;107
+Display > Newsletter > Newsletter > Display;0;0;2
+Display > Newsletter > Newsletter > Display > Display > Display;0;0;1
+Display > Newsletter > Newsletter > Display > Display > Display > Display;0;0;1
+Display > Newsletter > Newsletter > Display > Display > Display > Display > Display;0;0;1
+Display > Newsletter > Newsletter > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Newsletter > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Newsletter > Newsletter > Display > Display > Display > Display > Display > Newsletter;0;0;1
+Display > Newsletter > Newsletter > Newsletter;0;0;22
+Display > Newsletter > Newsletter > Newsletter > Newsletter;0;0;1
+Display > Newsletter > Newsletter > Newsletter > Newsletter > Newsletter > Newsletter;0;0;1
+Display > Newsletter > Newsletter > Newsletter > Newsletter > Retargeting;0;0;1
+Display > Newsletter > Newsletter > Newsletter > SEO;0;0;2
+Display > Newsletter > Newsletter > SEA;1;81.49896642;7
+Display > Newsletter > Newsletter > SEA > SEA;0;0;1
+Display > Newsletter > Newsletter > SEO;0;0;1
+Display > Newsletter > Price_comparison;0;0;4
+Display > Newsletter > Price_comparison > Display > Display;0;0;1
+Display > Newsletter > Price_comparison > Price_comparison;0;0;1
+Display > Newsletter > Retargeting > Retargeting > SEO > SEO;0;0;1
+Display > Newsletter > SEA;0;0;15
+Display > Newsletter > SEA > Display > Display > Display > Display;0;0;1
+Display > Newsletter > SEA > Display > Display > Display > Display > Display > Display;0;0;1
+Display > Newsletter > SEA > SEA;0;0;4
+Display > Newsletter > SEA > SEA > SEA;1;73.68243179;1
+Display > Newsletter > SEA > SEO;1;88.4812019;0
+Display > Newsletter > SEA > SEO > SEO;0;0;1
+Display > Newsletter > SEO;0;0;6
+Display > Newsletter > SEO > SEA;0;0;1
+Display > Newsletter > SEO > SEO;0;0;6
+Display > Price_comparison;1;50.67908644;21
+Display > Price_comparison > Affiliate;0;0;1
+Display > Price_comparison > Display;0;0;1
+Display > Price_comparison > Price_comparison;0;0;3
+Display > Price_comparison > Price_comparison > Price_comparison;0;0;1
+Display > Price_comparison > Price_comparison > Retargeting;0;0;1
+Display > Price_comparison > SEO;0;0;1
+Display > SEO;0;0;20
+Display > SEO > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Display > SEO > SEA;0;0;1
+Display > SEO > SEA > SEA;0;0;1
+Display > SEO > SEO;0;0;4
+Display > SEO > SEO > SEO;0;0;2
+Display > SEO > SEO > SEO > SEO;0;0;1
+Newsletter;32;2235.862187;1367
+Newsletter > Affiliate;0;0;3
+Newsletter > Affiliate > Affiliate;0;0;2
+Newsletter > Affiliate > Affiliate > SEO > SEO;0;0;1
+Newsletter > Display;0;0;10
+Newsletter > Display > Display;0;0;4
+Newsletter > Display > Display > Display;0;0;4
+Newsletter > Display > Display > Display > Display;0;0;4
+Newsletter > Display > Display > Display > Display > Display;0;0;1
+Newsletter > Display > Display > Display > Display > Display > Display;0;0;3
+Newsletter > Display > Display > Display > Display > Display > Display > Display;0;0;3
+Newsletter > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Newsletter > Display > Display > Display > Newsletter;0;0;1
+Newsletter > Display > Display > Display > SEO;0;0;1
+Newsletter > Display > Display > Newsletter;0;0;1
+Newsletter > Newsletter;4;303.1524319;311
+Newsletter > Newsletter > Affiliate;0;0;1
+Newsletter > Newsletter > Display;0;0;2
+Newsletter > Newsletter > Display > Display;0;0;3
+Newsletter > Newsletter > Display > Display > Display;0;0;2
+Newsletter > Newsletter > Display > Display > Display > Display > Display;0;0;1
+Newsletter > Newsletter > Display > Display > Display > Display > Display > Display > Display;0;0;2
+Newsletter > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Newsletter > Newsletter > Display > Display > Display > Newsletter;0;0;1
+Newsletter > Newsletter > Newsletter;1;90.84226375;75
+Newsletter > Newsletter > Newsletter > Display;0;0;1
+Newsletter > Newsletter > Newsletter > Newsletter;0;0;13
+Newsletter > Newsletter > Newsletter > Newsletter > Newsletter;0;0;4
+Newsletter > Newsletter > Newsletter > Retargeting;0;0;1
+Newsletter > Newsletter > Newsletter > SEA;0;0;4
+Newsletter > Newsletter > Newsletter > SEO > SEO;0;0;1
+Newsletter > Newsletter > Newsletter > SEO > SEO > SEO;0;0;1
+Newsletter > Newsletter > Other > Other > Other;0;0;1
+Newsletter > Newsletter > Price_comparison;0;0;1
+Newsletter > Newsletter > Price_comparison > Price_comparison;0;0;1
+Newsletter > Newsletter > Retargeting;0;0;1
+Newsletter > Newsletter > SEA;0;0;9
+Newsletter > Newsletter > SEA > SEA;0;0;4
+Newsletter > Newsletter > SEO;0;0;3
+Newsletter > Newsletter > SEO > SEA;0;0;1
+Newsletter > Newsletter > SEO > SEO;0;0;1
+Newsletter > Other;0;0;4
+Newsletter > Other > Other;0;0;1
+Newsletter > Price_comparison;0;0;5
+Newsletter > Retargeting;0;0;2
+Newsletter > Retargeting > Retargeting;0;0;2
+Newsletter > SEA;0;0;39
+Newsletter > SEA > Affiliate > Affiliate;0;0;1
+Newsletter > SEA > Display;0;0;1
+Newsletter > SEA > Display > Display;0;0;1
+Newsletter > SEA > Other;0;0;1
+Newsletter > SEA > Retargeting > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Newsletter > SEA > SEA;0;0;8
+Newsletter > SEA > SEA > Display > Display > Display > Display;0;0;1
+Newsletter > SEA > SEA > SEA;0;0;3
+Newsletter > SEA > SEA > SEA > SEA;0;0;1
+Newsletter > SEA > SEA > SEA > SEA > SEA;0;0;1
+Newsletter > SEA > SEA > SEA > SEA > SEA > SEA;0;0;1
+Newsletter > SEA > SEO > Display > Display;0;0;1
+Newsletter > SEA > SEO > SEO;0;0;1
+Newsletter > SEO;0;0;16
+Newsletter > SEO > SEA;0;0;1
+Newsletter > SEO > SEO;0;0;4
+Other;13;960.2266856;2960
+Other > Affiliate;1;62.9719749;24
+Other > Affiliate > Affiliate;0;0;1
+Other > Affiliate > Affiliate > Affiliate;0;0;1
+Other > Affiliate > Other;0;0;1
+Other > Display;0;0;30
+Other > Display > Display;0;0;17
+Other > Display > Display > Display;0;0;20
+Other > Display > Display > Display > Display;0;0;8
+Other > Display > Display > Display > Display > Display;0;0;7
+Other > Display > Display > Display > Display > Display > Display;0;0;8
+Other > Display > Display > Display > Display > Display > Display > Affiliate > Affiliate;0;0;1
+Other > Display > Display > Display > Display > Display > Display > Display;0;0;6
+Other > Display > Display > Display > Display > Display > Display > Display > Display;0;0;4
+Other > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+Other > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Other > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+Other > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Other > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Other > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Other > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Other > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+Other > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter;0;0;1
+Other > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;2
+Other > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;1
+Other > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;2
+Other > Display > Display > Display > Display > Display > Newsletter;0;0;1
+Other > Display > Display > Display > Display > Newsletter;0;0;1
+Other > Display > Display > Newsletter;0;0;2
+Other > Display > Newsletter;0;0;1
+Other > Newsletter;0;0;6
+Other > Newsletter > Newsletter;0;0;2
+Other > Newsletter > Newsletter > SEO;0;0;1
+Other > Other;5;365.5752403;641
+Other > Other > Affiliate;2;87.53297441;3
+Other > Other > Affiliate > Affiliate;1;95.87726684;1
+Other > Other > Affiliate > Affiliate > Display > Display > Display;0;0;1
+Other > Other > Display;0;0;4
+Other > Other > Display > Affiliate > Affiliate;0;0;1
+Other > Other > Display > Display;0;0;4
+Other > Other > Display > Display > Display;0;0;2
+Other > Other > Display > Display > Display > Display;0;0;4
+Other > Other > Display > Display > Display > Display > Display;0;0;1
+Other > Other > Display > Display > Display > Display > Display > Display;0;0;2
+Other > Other > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Other > Other > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+Other > Other > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Other > Other > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter > Newsletter;0;0;1
+Other > Other > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;1
+Other > Other > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+Other > Other > Display > Display > Display > Display > Display > Newsletter;0;0;1
+Other > Other > Newsletter;0;0;1
+Other > Other > Newsletter > Newsletter;0;0;1
+Other > Other > Other;2;138.8524703;146
+Other > Other > Other > Affiliate > Affiliate;1;48.10529917;0
+Other > Other > Other > Display;0;0;1
+Other > Other > Other > Display > Display > Display;0;0;1
+Other > Other > Other > Display > Display > Display > Display > Display;0;0;1
+Other > Other > Other > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Other > Other > Other > Display > Display > Newsletter;0;0;1
+Other > Other > Other > Other;0;0;25
+Other > Other > Other > Other > Other;0;0;5
+Other > Other > Other > Other > Other > Other;0;0;1
+Other > Other > Other > Other > Other > Other > Display > Display > Display > Display > Display;0;0;1
+Other > Other > Other > Other > Other > Other > Other > Other;0;0;1
+Other > Other > Other > Other > Other > SEA;0;0;1
+Other > Other > Other > Other > SEA;0;0;3
+Other > Other > Other > Other > SEA > SEA > SEO;0;0;1
+Other > Other > Other > Price_comparison;0;0;3
+Other > Other > Other > SEA;0;0;10
+Other > Other > Other > SEA > SEA;0;0;1
+Other > Other > Other > SEA > SEA > SEA;0;0;1
+Other > Other > Other > SEA > SEA > SEA > SEA > SEA > SEA;0;0;1
+Other > Other > Other > SEA > SEO;0;0;1
+Other > Other > Other > SEO;0;0;1
+Other > Other > Price_comparison;0;0;5
+Other > Other > Price_comparison > Price_comparison;1;62.22331109;1
+Other > Other > Price_comparison > SEA > SEA > SEO;0;0;1
+Other > Other > SEA;1;54.80376377;41
+Other > Other > SEA > Display;0;0;1
+Other > Other > SEA > Other;0;0;1
+Other > Other > SEA > Retargeting > Retargeting;0;0;1
+Other > Other > SEA > SEA;0;0;6
+Other > Other > SEA > SEA > Display > Newsletter;0;0;1
+Other > Other > SEA > SEA > SEA;0;0;2
+Other > Other > SEA > SEA > SEA > SEA > SEO;0;0;1
+Other > Other > SEA > SEA > SEO;0;0;1
+Other > Other > SEA > SEO;0;0;1
+Other > Other > SEO;0;0;3
+Other > Other > SEO > SEO;0;0;3
+Other > Other > SEO > SEO > SEO;0;0;1
+Other > Price_comparison;0;0;18
+Other > Price_comparison > Price_comparison;0;0;6
+Other > Price_comparison > Price_comparison > Newsletter;0;0;1
+Other > Price_comparison > Price_comparison > Price_comparison > SEA;0;0;1
+Other > Price_comparison > SEA;0;0;1
+Other > SEA;1;78.73928773;152
+Other > SEA > Display;0;0;2
+Other > SEA > Display > Display;0;0;1
+Other > SEA > Display > Display > Display;0;0;1
+Other > SEA > Display > Display > Display > Display;0;0;2
+Other > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Other > SEA > Display > Display > Display > Newsletter > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Other > SEA > Display > Display > Newsletter > SEA;0;0;1
+Other > SEA > Other > Other > Other;0;0;1
+Other > SEA > Other > SEA;0;0;1
+Other > SEA > Price_comparison > SEA;0;0;1
+Other > SEA > SEA;1;69.95804227;43
+Other > SEA > SEA > SEA;0;0;6
+Other > SEA > SEA > SEA > SEA;0;0;1
+Other > SEA > SEA > SEA > SEA > SEO;0;0;1
+Other > SEA > SEA > SEA > SEO;0;0;1
+Other > SEA > SEA > SEO;0;0;1
+Other > SEA > SEA > SEO > Affiliate > Display;0;0;1
+Other > SEA > SEO;0;0;8
+Other > SEA > SEO > Affiliate > Affiliate;0;0;1
+Other > SEA > SEO > SEA;0;0;2
+Other > SEA > SEO > SEO;0;0;1
+Other > SEA > SEO > SEO > SEO;0;0;3
+Other > SEO;1;76.78392389;21
+Other > SEO > Display > Display > Display;0;0;1
+Other > SEO > Display > Display > Display > Display;0;0;1
+Other > SEO > Retargeting;0;0;1
+Other > SEO > SEA;0;0;2
+Other > SEO > SEA > SEA;0;0;2
+Other > SEO > SEO;0;0;6
+Other > SEO > SEO > SEO;0;0;2
+Other > SEO > SEO > SEO > SEO;0;0;2
+Price_comparison;74;5186.680851;4585
+Price_comparison > Affiliate;1;81.32974845;14
+Price_comparison > Affiliate > Affiliate;0;0;1
+Price_comparison > Affiliate > Affiliate > Affiliate;0;0;1
+Price_comparison > Affiliate > Price_comparison > Display > Display;0;0;1
+Price_comparison > Display;0;0;35
+Price_comparison > Display > Display;0;0;19
+Price_comparison > Display > Display > Affiliate > Affiliate;0;0;1
+Price_comparison > Display > Display > Display;0;0;26
+Price_comparison > Display > Display > Display > Display;0;0;18
+Price_comparison > Display > Display > Display > Display > Display;0;0;14
+Price_comparison > Display > Display > Display > Display > Display > Display;0;0;8
+Price_comparison > Display > Display > Display > Display > Display > Display > Display;0;0;4
+Price_comparison > Display > Display > Display > Display > Display > Display > Display > Affiliate;0;0;1
+Price_comparison > Display > Display > Display > Display > Display > Display > Display > Display;0;0;7
+Price_comparison > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;3
+Price_comparison > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;5
+Price_comparison > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;5
+Price_comparison > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+Price_comparison > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Price_comparison > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Price_comparison > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Price_comparison > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+Price_comparison > Display > Display > Display > Display > Newsletter;0;0;2
+Price_comparison > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter;0;0;1
+Price_comparison > Display > Display > Display > Newsletter;0;0;1
+Price_comparison > Display > Display > Newsletter;0;0;2
+Price_comparison > Display > Display > Newsletter > Newsletter;0;0;1
+Price_comparison > Display > Display > SEO;0;0;1
+Price_comparison > Display > Newsletter;0;0;5
+Price_comparison > Display > Newsletter > Newsletter;0;0;1
+Price_comparison > Display > Newsletter > SEO > SEO > Newsletter;0;0;1
+Price_comparison > Display > Price_comparison;0;0;1
+Price_comparison > Newsletter;0;0;2
+Price_comparison > Newsletter > Newsletter;0;0;2
+Price_comparison > Other;0;0;7
+Price_comparison > Other > Other > Other > Other;0;0;1
+Price_comparison > Other > SEA > SEA;0;0;1
+Price_comparison > Price_comparison;8;509.9832726;1039
+Price_comparison > Price_comparison > Affiliate;0;0;1
+Price_comparison > Price_comparison > Affiliate > Affiliate;0;0;2
+Price_comparison > Price_comparison > Affiliate > Display > Display;0;0;1
+Price_comparison > Price_comparison > Display;0;0;10
+Price_comparison > Price_comparison > Display > Display;0;0;3
+Price_comparison > Price_comparison > Display > Display > Display;0;0;7
+Price_comparison > Price_comparison > Display > Display > Display > Display;0;0;5
+Price_comparison > Price_comparison > Display > Display > Display > Display > Display;0;0;3
+Price_comparison > Price_comparison > Display > Display > Display > Display > Display > Display;0;0;3
+Price_comparison > Price_comparison > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Price_comparison > Price_comparison > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Price_comparison > Price_comparison > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+Price_comparison > Price_comparison > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Price_comparison > Price_comparison > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Price_comparison > Price_comparison > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Price_comparison > Price_comparison > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Price_comparison > Price_comparison > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+Price_comparison > Price_comparison > Display > Newsletter;0;0;1
+Price_comparison > Price_comparison > Display > Price_comparison;0;0;1
+Price_comparison > Price_comparison > Newsletter;0;0;2
+Price_comparison > Price_comparison > Other;0;0;2
+Price_comparison > Price_comparison > Price_comparison;3;222.6424922;252
+Price_comparison > Price_comparison > Price_comparison > Display;0;0;1
+Price_comparison > Price_comparison > Price_comparison > Display > Display > Display;0;0;1
+Price_comparison > Price_comparison > Price_comparison > Display > Display > Display > Display;0;0;3
+Price_comparison > Price_comparison > Price_comparison > Display > Display > Display > Display > Display > Display > Display;0;0;2
+Price_comparison > Price_comparison > Price_comparison > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Price_comparison > Price_comparison > Price_comparison > Price_comparison;1;38.47637345;63
+Price_comparison > Price_comparison > Price_comparison > Price_comparison > Price_comparison;0;0;17
+Price_comparison > Price_comparison > Price_comparison > Price_comparison > Price_comparison > Price_comparison;0;0;4
+Price_comparison > Price_comparison > Price_comparison > Price_comparison > Price_comparison > Price_comparison > Price_comparison;0;0;1
+Price_comparison > Price_comparison > Price_comparison > Price_comparison > SEA;0;0;2
+Price_comparison > Price_comparison > Price_comparison > Price_comparison > SEA > Display > Display > Display > Display;0;0;1
+Price_comparison > Price_comparison > Price_comparison > Retargeting;0;0;1
+Price_comparison > Price_comparison > Price_comparison > SEA;0;0;5
+Price_comparison > Price_comparison > Price_comparison > SEA > SEA;0;0;2
+Price_comparison > Price_comparison > Price_comparison > SEA > SEA > SEA;0;0;1
+Price_comparison > Price_comparison > Price_comparison > SEA > SEA > SEA > SEA > SEA;0;0;1
+Price_comparison > Price_comparison > Price_comparison > SEA > SEO > SEO > SEO > SEA;0;0;1
+Price_comparison > Price_comparison > Retargeting;0;0;1
+Price_comparison > Price_comparison > Retargeting > Other;0;0;1
+Price_comparison > Price_comparison > Retargeting > Retargeting > Retargeting;0;0;1
+Price_comparison > Price_comparison > SEA;0;0;25
+Price_comparison > Price_comparison > SEA > Other;0;0;1
+Price_comparison > Price_comparison > SEA > SEA;0;0;10
+Price_comparison > Price_comparison > SEA > SEA > SEA > SEA;0;0;1
+Price_comparison > Price_comparison > SEA > SEA > SEO;0;0;1
+Price_comparison > Price_comparison > SEA > SEA > SEO > SEO > SEO;0;0;1
+Price_comparison > Price_comparison > SEA > SEO;0;0;1
+Price_comparison > Price_comparison > SEO;0;0;7
+Price_comparison > Price_comparison > SEO > SEO;0;0;2
+Price_comparison > Price_comparison > SEO > SEO > SEA;0;0;1
+Price_comparison > Retargeting;0;0;17
+Price_comparison > Retargeting > Display > Display;0;0;1
+Price_comparison > Retargeting > Display > Display > Display > Display;0;0;1
+Price_comparison > Retargeting > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+Price_comparison > Retargeting > Other;0;0;1
+Price_comparison > Retargeting > Retargeting;0;0;5
+Price_comparison > Retargeting > Retargeting > Retargeting > Retargeting;0;0;1
+Price_comparison > SEA;1;63.94126859;121
+Price_comparison > SEA > Display > Display;0;0;1
+Price_comparison > SEA > Display > Display > Display > Display;0;0;4
+Price_comparison > SEA > Display > Display > Display > Display > Display;0;0;1
+Price_comparison > SEA > Display > Display > Display > Display > Display > Display;0;0;1
+Price_comparison > SEA > Display > Display > Display > Newsletter > Newsletter;0;0;1
+Price_comparison > SEA > Other > Price_comparison;0;0;1
+Price_comparison > SEA > Retargeting > Retargeting;0;0;1
+Price_comparison > SEA > SEA;0;0;27
+Price_comparison > SEA > SEA > SEA;1;76.29823339;5
+Price_comparison > SEA > SEA > SEA > Display > Display > Display;0;0;1
+Price_comparison > SEA > SEA > SEA > SEA;0;0;1
+Price_comparison > SEA > SEA > SEA > SEO > SEO;0;0;1
+Price_comparison > SEA > SEA > SEO;0;0;1
+Price_comparison > SEA > SEA > SEO > SEO;0;0;2
+Price_comparison > SEA > SEO;0;0;5
+Price_comparison > SEA > SEO > Affiliate;0;0;1
+Price_comparison > SEA > SEO > SEO;0;0;2
+Price_comparison > SEA > SEO > SEO > SEA;0;0;1
+Price_comparison > SEO;0;0;22
+Price_comparison > SEO > Display > Newsletter;0;0;1
+Price_comparison > SEO > SEA > SEA;0;0;1
+Price_comparison > SEO > SEO;0;0;3
+Price_comparison > SEO > SEO > SEA;0;0;1
+Price_comparison > SEO > SEO > SEO > SEO;0;0;2
+Retargeting;7;500.1431911;278
+Retargeting > Display;0;0;6
+Retargeting > Display > Display;0;0;2
+Retargeting > Display > Display > Display;0;0;1
+Retargeting > Display > Display > Display > Display;0;0;4
+Retargeting > Display > Display > Display > Display > Display;0;0;4
+Retargeting > Display > Display > Display > Display > Display > Display;0;0;2
+Retargeting > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Retargeting > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Retargeting > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+Retargeting > Display > Newsletter;0;0;2
+Retargeting > Newsletter;0;0;2
+Retargeting > Other;0;0;14
+Retargeting > Other > Display > Display > Display;0;0;1
+Retargeting > Other > Display > Display > Display > Display > Newsletter;0;0;1
+Retargeting > Other > Other;1;57.17877662;5
+Retargeting > Other > Other > Other;0;0;3
+Retargeting > Other > SEA;0;0;1
+Retargeting > Price_comparison;0;0;3
+Retargeting > Price_comparison > Price_comparison;0;0;1
+Retargeting > Retargeting;0;0;76
+Retargeting > Retargeting > Affiliate;0;0;1
+Retargeting > Retargeting > Display;0;0;3
+Retargeting > Retargeting > Display > Display;0;0;2
+Retargeting > Retargeting > Display > Display > Display;0;0;1
+Retargeting > Retargeting > Newsletter > Newsletter > Newsletter;0;0;1
+Retargeting > Retargeting > Other;0;0;3
+Retargeting > Retargeting > Other > Newsletter;0;0;1
+Retargeting > Retargeting > Other > SEA;0;0;1
+Retargeting > Retargeting > Price_comparison > Price_comparison;0;0;1
+Retargeting > Retargeting > Retargeting;1;73.66801769;30
+Retargeting > Retargeting > Retargeting > Affiliate;0;0;1
+Retargeting > Retargeting > Retargeting > Display > Display > Display > Display;0;0;1
+Retargeting > Retargeting > Retargeting > Display > Display > Display > Display > Display;0;0;1
+Retargeting > Retargeting > Retargeting > Other;0;0;2
+Retargeting > Retargeting > Retargeting > Other > Display > Display > Display > Newsletter;0;0;1
+Retargeting > Retargeting > Retargeting > Retargeting;0;0;1
+Retargeting > Retargeting > Retargeting > Retargeting > Other;0;0;1
+Retargeting > Retargeting > Retargeting > Retargeting > Other > Other > SEA;0;0;1
+Retargeting > Retargeting > Retargeting > SEO;0;0;1
+Retargeting > Retargeting > SEO;0;0;2
+Retargeting > SEA;0;0;1
+Retargeting > SEO;0;0;6
+Retargeting > SEO > SEO;0;0;1
+SEA;649;46114.00195;29621
+SEA > Affiliate;13;935.1379301;227
+SEA > Affiliate > Affiliate;0;0;51
+SEA > Affiliate > Affiliate > Affiliate;0;0;7
+SEA > Affiliate > Affiliate > Affiliate > Affiliate;1;53.05861788;0
+SEA > Affiliate > Affiliate > Display;0;0;2
+SEA > Affiliate > Affiliate > Price_comparison;0;0;1
+SEA > Affiliate > Display;0;0;2
+SEA > Affiliate > Display > Display;0;0;2
+SEA > Affiliate > Display > Display > Display;0;0;2
+SEA > Affiliate > Display > Display > Display > Display;0;0;1
+SEA > Affiliate > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > Affiliate > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > Affiliate > Display > Display > Display > Display > Display > Newsletter;0;0;1
+SEA > Affiliate > Newsletter;1;61.93072905;1
+SEA > Affiliate > Other;0;0;1
+SEA > Affiliate > Other > Display > Display > Display > Display > Display;0;0;1
+SEA > Affiliate > Other > Other > Other > Other > Other;0;0;1
+SEA > Affiliate > Price_comparison;0;0;1
+SEA > Affiliate > Retargeting;0;0;1
+SEA > Affiliate > SEA;0;0;2
+SEA > Affiliate > SEA > SEO > SEO;0;0;1
+SEA > Affiliate > SEO;0;0;2
+SEA > Display;0;0;322
+SEA > Display > Affiliate;0;0;1
+SEA > Display > Display;0;0;236
+SEA > Display > Display > Affiliate;0;0;1
+SEA > Display > Display > Display;0;0;172
+SEA > Display > Display > Display > Affiliate;0;0;1
+SEA > Display > Display > Display > Affiliate > Affiliate;0;0;1
+SEA > Display > Display > Display > Display;0;0;150
+SEA > Display > Display > Display > Display > Display;0;0;113
+SEA > Display > Display > Display > Display > Display > Display;0;0;89
+SEA > Display > Display > Display > Display > Display > Display > Display;0;0;56
+SEA > Display > Display > Display > Display > Display > Display > Display > Affiliate > Affiliate;0;0;1
+SEA > Display > Display > Display > Display > Display > Display > Display > Display;0;0;50
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;25
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;32
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;23
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Affiliate;0;0;1
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;18
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;7
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;12
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;12
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;4
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;1
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;2
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;3
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;1
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;2
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > SEO > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;4
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;4
+SEA > Display > Display > Display > Display > Display > Display > Display > Display > SEO > SEO;0;0;1
+SEA > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;6
+SEA > Display > Display > Display > Display > Display > Display > Display > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter;0;0;1
+SEA > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter > SEA;0;0;1
+SEA > Display > Display > Display > Display > Display > Display > Newsletter;0;0;15
+SEA > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;1;73.85931528;1
+SEA > Display > Display > Display > Display > Display > Display > Newsletter > SEA;0;0;1
+SEA > Display > Display > Display > Display > Display > Display > Price_comparison;0;0;1
+SEA > Display > Display > Display > Display > Display > Newsletter;0;0;15
+SEA > Display > Display > Display > Display > Display > Newsletter > Display > Display > Display > Display > Display;0;0;1
+SEA > Display > Display > Display > Display > Newsletter;0;0;5
+SEA > Display > Display > Display > Display > Newsletter > Newsletter;0;0;3
+SEA > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter;0;0;1
+SEA > Display > Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter > Newsletter;0;0;1
+SEA > Display > Display > Display > Display > Newsletter > SEA;0;0;1
+SEA > Display > Display > Display > Display > Price_comparison;1;50.99489455;1
+SEA > Display > Display > Display > Display > Price_comparison > Price_comparison;0;0;1
+SEA > Display > Display > Display > Newsletter;0;0;16
+SEA > Display > Display > Display > Newsletter > Display > Display > Display > Display;0;0;1
+SEA > Display > Display > Display > Newsletter > Newsletter;1;73.64512595;5
+SEA > Display > Display > Display > Newsletter > Newsletter > Newsletter;0;0;2
+SEA > Display > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter;0;0;1
+SEA > Display > Display > Display > SEO;0;0;2
+SEA > Display > Display > Newsletter;0;0;19
+SEA > Display > Display > Newsletter > Display > Display;0;0;1
+SEA > Display > Display > Newsletter > Newsletter;0;0;3
+SEA > Display > Display > Newsletter > Newsletter > Display;0;0;1
+SEA > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter > Newsletter;0;0;1
+SEA > Display > Display > Newsletter > Price_comparison;0;0;1
+SEA > Display > Newsletter;1;93.10812294;27
+SEA > Display > Newsletter > Display > Display > Display > Newsletter > Newsletter;0;0;1
+SEA > Display > Newsletter > Newsletter;0;0;6
+SEA > Display > Newsletter > Newsletter > Newsletter;1;82.77287132;1
+SEA > Display > Newsletter > Price_comparison;0;0;1
+SEA > Display > Newsletter > SEA;0;0;1
+SEA > Display > Price_comparison;0;0;3
+SEA > Display > Price_comparison > Price_comparison;0;0;2
+SEA > Display > SEO > SEO;0;0;1
+SEA > Newsletter;1;63.4912623;29
+SEA > Newsletter > Display;0;0;1
+SEA > Newsletter > Newsletter;0;0;9
+SEA > Newsletter > Newsletter > Newsletter;0;0;4
+SEA > Newsletter > Price_comparison > Price_comparison;0;0;1
+SEA > Newsletter > SEA;0;0;1
+SEA > Other;1;80.23304754;186
+SEA > Other > Display;0;0;1
+SEA > Other > Display > Display;0;0;1
+SEA > Other > Display > Display > Display;0;0;1
+SEA > Other > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > Other > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > Other > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > Other > Other;1;69.64182096;49
+SEA > Other > Other > Display;0;0;1
+SEA > Other > Other > Display > Display;0;0;1
+SEA > Other > Other > Display > Display > Display;0;0;3
+SEA > Other > Other > Display > Display > Display > Display > Display;0;0;1
+SEA > Other > Other > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > Other > Other > Other;0;0;8
+SEA > Other > Other > Other > Other > Affiliate;0;0;1
+SEA > Other > Other > Other > Price_comparison;0;0;1
+SEA > Other > Other > Other > SEA;0;0;1
+SEA > Other > Other > SEA > SEA;0;0;1
+SEA > Other > Other > SEA > SEA > SEA > SEA;0;0;1
+SEA > Other > Other > SEA > SEO > SEO > SEO > Other;0;0;1
+SEA > Other > Other > SEO > Affiliate > Display;0;0;1
+SEA > Other > SEA;1;92.03848277;3
+SEA > Other > SEA > Display > Display > Display;0;0;1
+SEA > Other > SEA > SEA;0;0;1
+SEA > Other > SEA > SEA > Display > Display > Display;0;0;1
+SEA > Other > SEA > SEA > SEA;0;0;1
+SEA > Other > SEA > SEO;0;0;1
+SEA > Other > SEO;0;0;1
+SEA > Other > SEO > SEA > SEA;0;0;1
+SEA > Other > SEO > SEO > SEO;0;0;2
+SEA > Price_comparison;2;113.1948365;118
+SEA > Price_comparison > Affiliate;0;0;1
+SEA > Price_comparison > Display;0;0;4
+SEA > Price_comparison > Display > Display;0;0;4
+SEA > Price_comparison > Display > Display > Display;0;0;1
+SEA > Price_comparison > Display > Display > Display > Display > Display;0;0;1
+SEA > Price_comparison > Display > Display > Display > Display > Display > Display > Display;0;0;2
+SEA > Price_comparison > Other;0;0;1
+SEA > Price_comparison > Price_comparison;0;0;27
+SEA > Price_comparison > Price_comparison > Price_comparison;0;0;5
+SEA > Price_comparison > Price_comparison > Price_comparison > Price_comparison;0;0;2
+SEA > Price_comparison > Price_comparison > SEA;0;0;1
+SEA > Price_comparison > Retargeting > Display > Newsletter;0;0;1
+SEA > Price_comparison > SEA;0;0;6
+SEA > Price_comparison > SEA > Affiliate;0;0;1
+SEA > Retargeting;0;0;57
+SEA > Retargeting > Display > Display;0;0;1
+SEA > Retargeting > Display > Display > Display;0;0;1
+SEA > Retargeting > Display > Display > Display > Display;0;0;1
+SEA > Retargeting > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > Retargeting > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > Retargeting > Newsletter;0;0;1
+SEA > Retargeting > Other;0;0;3
+SEA > Retargeting > Other > Other;0;0;2
+SEA > Retargeting > Other > SEA > SEA;0;0;1
+SEA > Retargeting > Price_comparison > Price_comparison;0;0;1
+SEA > Retargeting > Retargeting;0;0;15
+SEA > Retargeting > Retargeting > Display;0;0;1
+SEA > Retargeting > Retargeting > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > Retargeting > Retargeting > Newsletter > Newsletter;0;0;1
+SEA > Retargeting > Retargeting > Price_comparison > Price_comparison;0;0;1
+SEA > Retargeting > Retargeting > Retargeting;0;0;6
+SEA > Retargeting > Retargeting > Retargeting > Retargeting;0;0;1
+SEA > Retargeting > Retargeting > Retargeting > Retargeting > Retargeting > Retargeting > Retargeting > Retargeting > Retargeting > Retargeting > Retargeting;1;76.65711998;0
+SEA > Retargeting > SEO > SEO > SEO > SEO > SEO > SEO;0;0;1
+SEA > SEA;125;9022.318759;5927
+SEA > SEA > Affiliate;2;129.3868815;39
+SEA > SEA > Affiliate > Affiliate;0;0;4
+SEA > SEA > Affiliate > Affiliate > Affiliate;0;0;1
+SEA > SEA > Affiliate > Affiliate > Affiliate > Affiliate > Affiliate;0;0;1
+SEA > SEA > Affiliate > Affiliate > Display > Newsletter;0;0;1
+SEA > SEA > Affiliate > Display;0;0;1
+SEA > SEA > Affiliate > Display > Display;0;0;1
+SEA > SEA > Affiliate > SEO > SEO;0;0;1
+SEA > SEA > Display;0;0;79
+SEA > SEA > Display > Affiliate;0;0;1
+SEA > SEA > Display > Display;0;0;48
+SEA > SEA > Display > Display > Display;0;0;41
+SEA > SEA > Display > Display > Display > Affiliate > Affiliate > Affiliate;0;0;1
+SEA > SEA > Display > Display > Display > Display;0;0;37
+SEA > SEA > Display > Display > Display > Display > Display;0;0;24
+SEA > SEA > Display > Display > Display > Display > Display > Display;0;0;11
+SEA > SEA > Display > Display > Display > Display > Display > Display > Display;0;0;14
+SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display;0;0;8
+SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;10
+SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;7
+SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;5
+SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;3
+SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;3
+SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Price_comparison;0;0;1
+SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;2
+SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;1
+SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Newsletter > SEA;0;0;1
+SEA > SEA > Display > Display > Display > Display > Display > Display > Newsletter;0;0;3
+SEA > SEA > Display > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;1
+SEA > SEA > Display > Display > Display > Display > Display > Newsletter;0;0;1
+SEA > SEA > Display > Display > Display > Display > Display > Newsletter > Newsletter;0;0;1
+SEA > SEA > Display > Display > Display > Display > Newsletter;0;0;2
+SEA > SEA > Display > Display > Display > Display > Newsletter > Newsletter;0;0;1
+SEA > SEA > Display > Display > Display > Newsletter;0;0;4
+SEA > SEA > Display > Display > Newsletter;0;0;3
+SEA > SEA > Display > Display > SEO;0;0;1
+SEA > SEA > Display > Newsletter;0;0;6
+SEA > SEA > Newsletter;1;78.38537452;3
+SEA > SEA > Newsletter > Newsletter;0;0;1
+SEA > SEA > Newsletter > Newsletter > Newsletter;0;0;1
+SEA > SEA > Newsletter > Newsletter > Newsletter > Newsletter;0;0;1
+SEA > SEA > Newsletter > SEO;0;0;1
+SEA > SEA > Other;1;76.59356049;38
+SEA > SEA > Other > Display > Display;0;0;1
+SEA > SEA > Other > Other;0;0;10
+SEA > SEA > Other > Other > Other;0;0;2
+SEA > SEA > Other > Other > Other > SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > Other > Other > SEA;0;0;1
+SEA > SEA > Other > SEA;0;0;5
+SEA > SEA > Other > SEA > SEA;0;0;2
+SEA > SEA > Other > SEA > SEA > SEA;0;0;1
+SEA > SEA > Price_comparison;0;0;26
+SEA > SEA > Price_comparison > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > Price_comparison > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > Price_comparison > Price_comparison;1;62.7930261;5
+SEA > SEA > Price_comparison > Price_comparison > Display > Display > Display > Display;0;0;1
+SEA > SEA > Price_comparison > Price_comparison > Price_comparison;0;0;1
+SEA > SEA > Price_comparison > Price_comparison > SEA;0;0;1
+SEA > SEA > Price_comparison > SEA;0;0;1
+SEA > SEA > Price_comparison > SEO;0;0;1
+SEA > SEA > Retargeting;0;0;9
+SEA > SEA > Retargeting > Newsletter;0;0;1
+SEA > SEA > Retargeting > Other;1;59.51285852;0
+SEA > SEA > Retargeting > Price_comparison;0;0;1
+SEA > SEA > Retargeting > Retargeting;0;0;4
+SEA > SEA > Retargeting > Retargeting > Retargeting;0;0;2
+SEA > SEA > Retargeting > Retargeting > Retargeting > Retargeting;0;0;1
+SEA > SEA > SEA;30;2096.030273;1151
+SEA > SEA > SEA > Affiliate;1;56.37347148;4
+SEA > SEA > SEA > Affiliate > Affiliate;0;0;1
+SEA > SEA > SEA > Affiliate > Affiliate > Affiliate;0;0;1
+SEA > SEA > SEA > Affiliate > Affiliate > Display > Display > Display;0;0;1
+SEA > SEA > SEA > Affiliate > Newsletter;0;0;1
+SEA > SEA > SEA > Display;0;0;12
+SEA > SEA > SEA > Display > Display;0;0;10
+SEA > SEA > SEA > Display > Display > Display;0;0;8
+SEA > SEA > SEA > Display > Display > Display > Display;0;0;2
+SEA > SEA > SEA > Display > Display > Display > Display > Display;0;0;3
+SEA > SEA > SEA > Display > Display > Display > Display > Display > Display;0;0;9
+SEA > SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;4
+SEA > SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+SEA > SEA > SEA > Display > Display > Display > Display > Newsletter;0;0;1
+SEA > SEA > SEA > Display > Display > Display > Newsletter;0;0;3
+SEA > SEA > SEA > Display > Newsletter;0;0;2
+SEA > SEA > SEA > Display > Newsletter > SEA > SEA > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > SEA > Newsletter;0;0;1
+SEA > SEA > SEA > Other;0;0;7
+SEA > SEA > SEA > Other > Other > SEA;0;0;1
+SEA > SEA > SEA > Price_comparison;0;0;4
+SEA > SEA > SEA > Price_comparison > Price_comparison;0;0;2
+SEA > SEA > SEA > Price_comparison > Price_comparison > Price_comparison > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > SEA > Retargeting;0;0;1
+SEA > SEA > SEA > SEA;6;404.0523603;228
+SEA > SEA > SEA > SEA > Affiliate;0;0;2
+SEA > SEA > SEA > SEA > Affiliate > Affiliate;0;0;1
+SEA > SEA > SEA > SEA > Affiliate > Affiliate > Display;0;0;1
+SEA > SEA > SEA > SEA > Display;0;0;3
+SEA > SEA > SEA > SEA > Display > Display;0;0;3
+SEA > SEA > SEA > SEA > Display > Display > Display;0;0;1
+SEA > SEA > SEA > SEA > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > SEA > SEA > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter > Display > Display;0;0;1
+SEA > SEA > SEA > SEA > Display > Display > Newsletter > Newsletter;0;0;1
+SEA > SEA > SEA > SEA > Other;0;0;2
+SEA > SEA > SEA > SEA > Price_comparison;0;0;1
+SEA > SEA > SEA > SEA > Price_comparison > Price_comparison;0;0;1
+SEA > SEA > SEA > SEA > Retargeting > Retargeting > Retargeting;0;0;2
+SEA > SEA > SEA > SEA > SEA;2;168.4062318;39
+SEA > SEA > SEA > SEA > SEA > Display > Display;0;0;1
+SEA > SEA > SEA > SEA > SEA > Display > Display > Display;0;0;1
+SEA > SEA > SEA > SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > SEA > SEA > SEA > Price_comparison;0;0;1
+SEA > SEA > SEA > SEA > SEA > Retargeting;0;0;1
+SEA > SEA > SEA > SEA > SEA > SEA;0;0;9
+SEA > SEA > SEA > SEA > SEA > SEA > Retargeting;0;0;1
+SEA > SEA > SEA > SEA > SEA > SEA > SEA;0;0;2
+SEA > SEA > SEA > SEA > SEA > SEA > SEO;0;0;1
+SEA > SEA > SEA > SEA > SEA > SEO;0;0;3
+SEA > SEA > SEA > SEA > SEO;0;0;6
+SEA > SEA > SEA > SEA > SEO > SEA;0;0;2
+SEA > SEA > SEA > SEA > SEO > SEA > SEA;1;71.11697416;0
+SEA > SEA > SEA > SEA > SEO > SEO;0;0;4
+SEA > SEA > SEA > SEO;2;126.7647685;44
+SEA > SEA > SEA > SEO > Display;0;0;1
+SEA > SEA > SEA > SEO > SEA;0;0;3
+SEA > SEA > SEA > SEO > SEA > Price_comparison;1;67.82978129;0
+SEA > SEA > SEA > SEO > SEA > SEA > SEA;0;0;1
+SEA > SEA > SEA > SEO > SEO;1;68.37023027;23
+SEA > SEA > SEA > SEO > SEO > SEA;0;0;1
+SEA > SEA > SEA > SEO > SEO > SEA > Display;0;0;1
+SEA > SEA > SEA > SEO > SEO > SEO;1;75.56700072;3
+SEA > SEA > SEA > SEO > SEO > SEO > SEA;0;0;1
+SEA > SEA > SEA > SEO > SEO > SEO > SEO;0;0;1
+SEA > SEA > SEO;7;485.7757153;262
+SEA > SEA > SEO > Affiliate;0;0;2
+SEA > SEA > SEO > Display;0;0;1
+SEA > SEA > SEO > Display > Display;0;0;1
+SEA > SEA > SEO > Display > Display > Display > Display;0;0;2
+SEA > SEA > SEO > Display > Display > Display > Display > Display;0;0;2
+SEA > SEA > SEO > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > SEO > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > SEO > Display > Newsletter;0;0;1
+SEA > SEA > SEO > Display > Newsletter > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > SEO > Other;0;0;3
+SEA > SEA > SEO > Other > Other;0;0;1
+SEA > SEA > SEO > Price_comparison;0;0;2
+SEA > SEA > SEO > SEA;0;0;17
+SEA > SEA > SEO > SEA > Other;0;0;1
+SEA > SEA > SEO > SEA > SEA;1;84.01577354;6
+SEA > SEA > SEO > SEA > SEA > SEO;0;0;1
+SEA > SEA > SEO > SEA > SEO;0;0;2
+SEA > SEA > SEO > SEA > SEO > SEO > SEO;0;0;2
+SEA > SEA > SEO > SEO;0;0;75
+SEA > SEA > SEO > SEO > Affiliate;0;0;2
+SEA > SEA > SEO > SEO > Display > Display > Display > Display;0;0;1
+SEA > SEA > SEO > SEO > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > SEO > SEO > Other;0;0;1
+SEA > SEA > SEO > SEO > SEA;0;0;6
+SEA > SEA > SEO > SEO > SEA > Retargeting > Retargeting > Retargeting > Retargeting;0;0;1
+SEA > SEA > SEO > SEO > SEA > SEA > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEA > SEO > SEO > SEA > SEA > SEA;0;0;2
+SEA > SEA > SEO > SEO > SEA > SEO;0;0;1
+SEA > SEA > SEO > SEO > SEO;0;0;24
+SEA > SEA > SEO > SEO > SEO > SEA > SEA;0;0;1
+SEA > SEA > SEO > SEO > SEO > SEO;0;0;5
+SEA > SEA > SEO > SEO > SEO > SEO > Affiliate > Affiliate > Affiliate > Affiliate;0;0;1
+SEA > SEA > SEO > SEO > SEO > SEO > SEO;0;0;4
+SEA > SEA > SEO > SEO > SEO > SEO > SEO > SEO;0;0;1
+SEA > SEO;42;2929.610852;1333
+SEA > SEO > Affiliate;0;0;9
+SEA > SEO > Affiliate > Other > Other;0;0;1
+SEA > SEO > Display;0;0;9
+SEA > SEO > Display > Display;0;0;7
+SEA > SEO > Display > Display > Affiliate > Affiliate;0;0;1
+SEA > SEO > Display > Display > Display;0;0;5
+SEA > SEO > Display > Display > Display > Display;0;0;3
+SEA > SEO > Display > Display > Display > Display > Display;0;0;1
+SEA > SEO > Display > Display > Display > Display > Display > Display;0;0;3
+SEA > SEO > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEO > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEO > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEO > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEO > Display > Display > Display > Display > Newsletter;0;0;1
+SEA > SEO > Display > Display > Display > Display > Newsletter > Newsletter > Retargeting > Other;0;0;1
+SEA > SEO > Display > Display > Newsletter;0;0;1
+SEA > SEO > Display > Newsletter > SEA > SEA;0;0;1
+SEA > SEO > Newsletter;0;0;2
+SEA > SEO > Other;0;0;6
+SEA > SEO > Other > Other;0;0;1
+SEA > SEO > Other > SEA;0;0;1
+SEA > SEO > Price_comparison;0;0;2
+SEA > SEO > Price_comparison > Price_comparison;0;0;1
+SEA > SEO > Retargeting;0;0;2
+SEA > SEO > SEA;2;128.9005373;127
+SEA > SEO > SEA > Affiliate;0;0;3
+SEA > SEO > SEA > Display > Display > Display;0;0;2
+SEA > SEO > SEA > Display > Display > Display > Display;0;0;1
+SEA > SEO > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEO > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEO > SEA > Price_comparison;0;0;2
+SEA > SEO > SEA > SEA;0;0;22
+SEA > SEO > SEA > SEA > Display > Display > Display;0;0;1
+SEA > SEO > SEA > SEA > Display > Display > Display > Display;0;0;1
+SEA > SEO > SEA > SEA > SEA > SEA;0;0;1
+SEA > SEO > SEA > SEA > SEA > SEA > SEO;0;0;1
+SEA > SEO > SEA > SEA > SEA > SEO;0;0;1
+SEA > SEO > SEA > SEA > SEO;0;0;1
+SEA > SEO > SEA > SEO;1;78.76382621;4
+SEA > SEO > SEA > SEO > SEO;0;0;1
+SEA > SEO > SEO;19;1387.127017;363
+SEA > SEO > SEO > Affiliate;0;0;3
+SEA > SEO > SEO > Display;0;0;2
+SEA > SEO > SEO > Display > Display;0;0;1
+SEA > SEO > SEO > Display > Display > Display;0;0;8
+SEA > SEO > SEO > Display > Display > Display > Display;0;0;1
+SEA > SEO > SEO > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEO > SEO > Other;0;0;1
+SEA > SEO > SEO > Price_comparison > Price_comparison;0;0;2
+SEA > SEO > SEO > Price_comparison > Retargeting;0;0;1
+SEA > SEO > SEO > Retargeting > Retargeting > Retargeting;0;0;1
+SEA > SEO > SEO > SEA;1;53.03159291;25
+SEA > SEO > SEO > SEA > SEA;0;0;3
+SEA > SEO > SEO > SEA > SEA > SEO;0;0;1
+SEA > SEO > SEO > SEA > SEO;0;0;3
+SEA > SEO > SEO > SEA > SEO > SEO > SEO;0;0;1
+SEA > SEO > SEO > SEO;3;203.8143006;87
+SEA > SEO > SEO > SEO > Affiliate;0;0;1
+SEA > SEO > SEO > SEO > Display > Display;0;0;1
+SEA > SEO > SEO > SEO > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEO > SEO > SEO > Display > Display > Newsletter;0;0;1
+SEA > SEO > SEO > SEO > Display > Newsletter > Newsletter;0;0;1
+SEA > SEO > SEO > SEO > SEA;0;0;7
+SEA > SEO > SEO > SEO > SEO;0;0;27
+SEA > SEO > SEO > SEO > SEO > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEA > SEO > SEO > SEO > SEO > SEA;0;0;3
+SEA > SEO > SEO > SEO > SEO > SEA > Display;0;0;1
+SEA > SEO > SEO > SEO > SEO > SEO;0;0;3
+SEA > SEO > SEO > SEO > SEO > SEO > SEA;0;0;1
+SEA > SEO > SEO > SEO > SEO > SEO > SEO;0;0;1
+SEA > SEO > SEO > SEO > SEO > SEO > SEO > SEO;0;0;2
+SEA > SEO > SEO > SEO > SEO > SEO > SEO > SEO > SEO;0;0;1
+SEA > SEO > SEO > SEO > SEO > SEO > SEO > SEO > SEO > SEO > SEO;0;0;1
+SEO;117;8217.543216;5234
+SEO > Affiliate;0;0;37
+SEO > Affiliate > Affiliate;1;88.19755053;6
+SEO > Affiliate > Display > Display;0;0;1
+SEO > Affiliate > Display > Display > Display;0;0;2
+SEO > Affiliate > Display > Display > Display > Display > Display;0;0;1
+SEO > Affiliate > Newsletter;0;0;2
+SEO > Display;0;0;41
+SEO > Display > Display;0;0;23
+SEO > Display > Display > Display;0;0;25
+SEO > Display > Display > Display > Display;0;0;16
+SEO > Display > Display > Display > Display > Display;0;0;10
+SEO > Display > Display > Display > Display > Display > Display;0;0;18
+SEO > Display > Display > Display > Display > Display > Display > Display;0;0;8
+SEO > Display > Display > Display > Display > Display > Display > Display > Display;0;0;6
+SEO > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;6
+SEO > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;4
+SEO > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;3
+SEO > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEO > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEO > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+SEO > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEO > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEO > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+SEO > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEO > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+SEO > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+SEO > Display > Display > Display > Display > Display > Newsletter > Display > Newsletter;0;0;1
+SEO > Display > Display > Display > Newsletter;0;0;3
+SEO > Display > Display > Display > SEO;0;0;1
+SEO > Display > Display > Newsletter;0;0;2
+SEO > Display > Newsletter;0;0;4
+SEO > Display > Newsletter > Display > Display > Display > Display;0;0;1
+SEO > Newsletter;0;0;6
+SEO > Newsletter > Newsletter;0;0;2
+SEO > Other;0;0;23
+SEO > Other > Display > Display > Display > Display > Display;0;0;1
+SEO > Other > Other;0;0;7
+SEO > Other > SEA;0;0;1
+SEO > Price_comparison;1;65.53536222;7
+SEO > Price_comparison > Display;0;0;1
+SEO > Price_comparison > Price_comparison;0;0;3
+SEO > Price_comparison > Price_comparison > Price_comparison;0;0;1
+SEO > Price_comparison > SEA;0;0;2
+SEO > Price_comparison > SEA > SEO;0;0;1
+SEO > Retargeting;0;0;8
+SEO > Retargeting > Retargeting;0;0;1
+SEO > Retargeting > Retargeting > Retargeting;0;0;2
+SEO > Retargeting > Retargeting > Retargeting > Other;0;0;2
+SEO > SEA;11;729.9270207;419
+SEO > SEA > Affiliate;0;0;3
+SEO > SEA > Affiliate > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEO > SEA > Display;0;0;9
+SEO > SEA > Display > Display;0;0;4
+SEO > SEA > Display > Display > Display;0;0;3
+SEO > SEA > Display > Display > Display > Display;0;0;2
+SEO > SEA > Display > Display > Display > Display > Display;0;0;1
+SEO > SEA > Display > Display > Display > Display > Display > Display;0;0;2
+SEO > SEA > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEO > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+SEO > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEO > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > SEO;0;0;1
+SEO > SEA > Display > Display > Display > Newsletter;0;0;1
+SEO > SEA > Display > Display > Newsletter;0;0;1
+SEO > SEA > Display > Display > Newsletter > Newsletter > Newsletter > Newsletter;1;42.17040927;0
+SEO > SEA > Display > Newsletter > SEA;0;0;1
+SEO > SEA > Newsletter;0;0;1
+SEO > SEA > Other;0;0;3
+SEO > SEA > Other > Other;0;0;1
+SEO > SEA > Other > Other > Other;0;0;1
+SEO > SEA > Other > Other > Other > SEA;0;0;1
+SEO > SEA > Price_comparison;0;0;1
+SEO > SEA > Retargeting;0;0;2
+SEO > SEA > SEA;6;360.4028868;83
+SEO > SEA > SEA > Affiliate;1;57.94759752;0
+SEO > SEA > SEA > Display > Display > Display > Display;0;0;1
+SEO > SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEO > SEA > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEO > SEA > SEA > Display > Display > Price_comparison;0;0;1
+SEO > SEA > SEA > Price_comparison;0;0;2
+SEO > SEA > SEA > Retargeting;0;0;1
+SEO > SEA > SEA > SEA;0;0;14
+SEO > SEA > SEA > SEA > Other > Other;0;0;1
+SEO > SEA > SEA > SEA > SEA;0;0;4
+SEO > SEA > SEA > SEA > SEA > SEA;0;0;2
+SEO > SEA > SEA > SEA > SEO;1;65.96201764;2
+SEO > SEA > SEA > SEO;1;57.25800625;3
+SEO > SEA > SEA > SEO > Price_comparison;0;0;1
+SEO > SEA > SEA > SEO > SEO;0;0;1
+SEO > SEA > SEA > SEO > SEO > Display > Display > Display;0;0;1
+SEO > SEA > SEA > SEO > SEO > Price_comparison;1;78.49305354;0
+SEO > SEA > SEA > SEO > SEO > SEO;0;0;1
+SEO > SEA > SEO;0;0;25
+SEO > SEA > SEO > SEA;0;0;3
+SEO > SEA > SEO > SEA > SEA;0;0;1
+SEO > SEA > SEO > SEO;0;0;5
+SEO > SEA > SEO > SEO > SEO;0;0;1
+SEO > SEA > SEO > SEO > SEO > SEO;0;0;1
+SEO > SEO;47;3078.459901;1473
+SEO > SEO > Affiliate;1;86.27709848;6
+SEO > SEO > Affiliate > Affiliate;0;0;4
+SEO > SEO > Affiliate > Affiliate > Affiliate;0;0;1
+SEO > SEO > Display;0;0;14
+SEO > SEO > Display > Display;0;0;7
+SEO > SEO > Display > Display > Display;0;0;5
+SEO > SEO > Display > Display > Display > Display;0;0;6
+SEO > SEO > Display > Display > Display > Display > Display;0;0;4
+SEO > SEO > Display > Display > Display > Display > Display > Affiliate;0;0;1
+SEO > SEO > Display > Display > Display > Display > Display > Display;0;0;4
+SEO > SEO > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEO > SEO > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEO > SEO > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+SEO > SEO > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEO > SEO > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+SEO > SEO > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+SEO > SEO > Display > Display > Display > Newsletter;0;0;1
+SEO > SEO > Display > Display > Display > Newsletter > Newsletter;0;0;1
+SEO > SEO > Display > Display > Newsletter;0;0;2
+SEO > SEO > Display > Newsletter;0;0;1
+SEO > SEO > Newsletter;0;0;1
+SEO > SEO > Newsletter > Newsletter > Price_comparison > Price_comparison;0;0;1
+SEO > SEO > Other;0;0;5
+SEO > SEO > Other > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+SEO > SEO > Other > Other;0;0;3
+SEO > SEO > Other > SEA > SEA;1;71.32766131;1
+SEO > SEO > Price_comparison;1;51.15837948;3
+SEO > SEO > Price_comparison > Display > Display > Display > Display;0;0;1
+SEO > SEO > Price_comparison > Price_comparison;0;0;2
+SEO > SEO > Price_comparison > Price_comparison > Price_comparison;0;0;1
+SEO > SEO > SEA;1;63.74197482;113
+SEO > SEO > SEA > Affiliate;0;0;1
+SEO > SEO > SEA > Affiliate > Affiliate > Affiliate > SEO > SEO > SEO;0;0;1
+SEO > SEO > SEA > Display;0;0;3
+SEO > SEO > SEA > Display > Display;0;0;1
+SEO > SEO > SEA > Display > Display > Display > Display;0;0;2
+SEO > SEO > SEA > Display > Display > Display > Display > Display;0;0;1
+SEO > SEO > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+SEO > SEO > SEA > Display > Display > Display > Newsletter;0;0;1
+SEO > SEO > SEA > Other;0;0;1
+SEO > SEO > SEA > SEA;3;216.7413176;40
+SEO > SEO > SEA > SEA > Affiliate;0;0;2
+SEO > SEO > SEA > SEA > Display > Display;0;0;2
+SEO > SEO > SEA > SEA > SEA;0;0;6
+SEO > SEO > SEA > SEA > SEA > Display > Display > Display > Display > Display;0;0;1
+SEO > SEO > SEA > SEA > SEA > SEA;0;0;1
+SEO > SEO > SEA > SEA > SEA > SEA > SEA > SEA > SEA;0;0;1
+SEO > SEO > SEA > SEA > SEO > SEO;0;0;1
+SEO > SEO > SEA > SEA > SEO > SEO > SEA > SEA;0;0;1
+SEO > SEO > SEA > SEO;0;0;9
+SEO > SEO > SEA > SEO > SEO;0;0;1
+SEO > SEO > SEA > SEO > SEO > SEO > SEA > SEA > SEA;0;0;1
+SEO > SEO > SEO;10;617.6151782;453
+SEO > SEO > SEO > Affiliate;0;0;2
+SEO > SEO > SEO > Affiliate > Affiliate > Affiliate;0;0;1
+SEO > SEO > SEO > Display;0;0;2
+SEO > SEO > SEO > Display > Display;0;0;1
+SEO > SEO > SEO > Display > Display > Display;0;0;2
+SEO > SEO > SEO > Display > Display > Display > Display;0;0;4
+SEO > SEO > SEO > Display > Display > Display > Display > Display;0;0;1
+SEO > SEO > SEO > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEO > SEO > SEO > Newsletter;0;0;2
+SEO > SEO > SEO > Other;0;0;3
+SEO > SEO > SEO > Other > Other;0;0;1
+SEO > SEO > SEO > Price_comparison;0;0;1
+SEO > SEO > SEO > Price_comparison > Price_comparison > Price_comparison;0;0;1
+SEO > SEO > SEO > Retargeting;0;0;2
+SEO > SEO > SEO > Retargeting > Other > Other;0;0;1
+SEO > SEO > SEO > SEA;1;60.35981228;47
+SEO > SEO > SEO > SEA > Display;0;0;1
+SEO > SEO > SEO > SEA > Display > Display > Display;0;0;1
+SEO > SEO > SEO > SEA > Display > Display > Display > Display > Display > Display;0;0;1
+SEO > SEO > SEO > SEA > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEO > SEO > SEO > SEA > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display > Display;0;0;1
+SEO > SEO > SEO > SEA > Other;1;78.5553194;0
+SEO > SEO > SEO > SEA > Other > Other;0;0;1
+SEO > SEO > SEO > SEA > SEA;0;0;10
+SEO > SEO > SEO > SEA > SEA > SEA;0;0;1
+SEO > SEO > SEO > SEA > SEO;0;0;2
+SEO > SEO > SEO > SEA > SEO > SEO;0;0;1
+SEO > SEO > SEO > SEO;3;212.0823532;137
+SEO > SEO > SEO > SEO > Affiliate;0;0;2
+SEO > SEO > SEO > SEO > Display;0;0;2
+SEO > SEO > SEO > SEO > Display > Display > Display;0;0;1
+SEO > SEO > SEO > SEO > Display > Display > Display > Display > Display > Display > Display > Display;0;0;2
+SEO > SEO > SEO > SEO > Display > Display > Display > Display > Display > Display > Display > Display > Newsletter;0;0;1
+SEO > SEO > SEO > SEO > Other > Other;0;0;1
+SEO > SEO > SEO > SEO > Price_comparison > Price_comparison;1;77.73133833;0
+SEO > SEO > SEO > SEO > SEA;0;0;8
+SEO > SEO > SEO > SEO > SEA > Affiliate;0;0;1
+SEO > SEO > SEO > SEO > SEA > SEA;0;0;3
+SEO > SEO > SEO > SEO > SEA > SEA > SEA > SEA;0;0;1
+SEO > SEO > SEO > SEO > SEA > SEO;0;0;1
+SEO > SEO > SEO > SEO > SEO;0;0;35
+SEO > SEO > SEO > SEO > SEO > Affiliate;0;0;1
+SEO > SEO > SEO > SEO > SEO > Display > Display > Display;0;0;1
+SEO > SEO > SEO > SEO > SEO > SEA;0;0;5
+SEO > SEO > SEO > SEO > SEO > SEO;0;0;4
+SEO > SEO > SEO > SEO > SEO > SEO > SEA;0;0;1
+SEO > SEO > SEO > SEO > SEO > SEO > SEO;0;0;5
